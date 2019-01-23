@@ -4,7 +4,7 @@ Hi!
 
 This is Wenqi, a master student at Columbia University.
 
-My research interests include Heterogenous Parallel Computing, Distributed System and Machine Learning. Specifically, I am intereseted in optimizting performance of deep learning computations on GPU/FPGA.
+My research interests include Heterogenous Parallel Computing, Distributed System and Machine Learning. Specifically, I am intereseted in optimizting performance of deep learning computations on GPUs/FPGAs.
 
 Wenqi
 
